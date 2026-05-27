@@ -61,7 +61,3 @@ The intelligence of the assistant relies on a structured formula calculated in `
 3. `npm run dev`
 
 Open `http://localhost:5173` to interact with the demo.
-
-## 📝 Assumptions & Constraints
-- Repo is kept lightweight (<10MB) by omitting large assets.
-- Data is mocked or falls back to in-memory state to guarantee the demo works seamlessly for judges without complex service account setups.
